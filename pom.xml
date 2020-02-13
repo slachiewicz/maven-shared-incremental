@@ -23,7 +23,7 @@
     <groupId>org.apache.maven.shared</groupId>
     <artifactId>maven-shared-components</artifactId>
     <version>33</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <artifactId>maven-shared-incremental</artifactId>
@@ -57,7 +57,7 @@
   </distributionManagement>
 
   <properties>
-    <mavenVersion>2.2.1</mavenVersion>
+    <mavenVersion>3.6.3</mavenVersion>
     <javaVersion>8</javaVersion>
   </properties>
 
